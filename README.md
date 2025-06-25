@@ -1,4 +1,4 @@
-# 👋 Hi, I’m caring-coder (aka Verron)
+# 👋 Hi, I’m caring-coder (aka Joseph)
 
 ## 🚀 About Me
 
