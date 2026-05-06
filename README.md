@@ -33,7 +33,7 @@ I’m a passionate software engineer, software craftsman, and lifelong learner w
 
 ## 🌟 Featured Project
 
-[![office-stamper](https://github-readme-stats.vercel.app/api/pin/?username=verronpro&repo=office-stamper)](https://github.com/verronpro/office-stamper)
+![Office-stamper engine](https://img.shields.io/maven-central/v/pro.verron.officestamper/engine)
 
 ## 🏅 Holopin Board
 
