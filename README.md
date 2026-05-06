@@ -33,7 +33,7 @@ I’m a passionate software engineer, software craftsman, and lifelong learner w
 
 ## 🌟 Featured Project
 
-![Office-stamper engine](https://img.shields.io/maven-central/v/pro.verron.officestamper/engine)
+![Office-stamper engine](https://img.shields.io/maven-central/v/pro.verron.office-stamper/engine)
 
 ## 🏅 Holopin Board
 
